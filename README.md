@@ -2,4 +2,6 @@
 
 kubectl get pods -n jenkins
 
-kubectl logs jenkins-6fb994cfc5-twnvn -n jenkins
+kubectl logs jenkins-pod-name -n jenkins
+
+Copy your jenkins_password
